@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Cytometry In R
+
+Location: Oslo, Norway
+
+My Favorite Fluorophore/Metal-Isotope: PE
+
+Previous Coding Experience: Repeatedly Calling IT
+
+What I Hope to Get From This Course: Analyzing flow data in R
